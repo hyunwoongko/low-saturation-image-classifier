@@ -11,7 +11,7 @@ Gray Factor is the basis of comparison. Add the absolute values ​​of R-G, R-
 
 ## 2. Test
 
-### 2-1. Color Image
+## 2-1. Color Image
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990475-42aa1800-967e-11e9-93a9-8e32d5b528cf.jpg></img>
 <br> grayfactor is 470.433684348195
@@ -63,7 +63,7 @@ Gray Factor is the basis of comparison. Add the absolute values ​​of R-G, R-
 <br> this image is color image
 <br><br><br>
 
-### 2. Low Saturation Image
+## 2-2. Low Saturation Image
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990709-32466d00-967f-11e9-8f1e-6f51c857100c.jpg></img>
 <br> grayfactor is 74.21911310513414
@@ -115,7 +115,7 @@ Gray Factor is the basis of comparison. Add the absolute values ​​of R-G, R-
 <br> this image is color image
 <br><br>
 
-### 2-3. Test Accuracy
+## 2-3. Test Accuracy
 
 The test resulted in 19 images out of a total of 20 images. An accuracy of 95% indicates that this classifier works correctly.
 <br>
