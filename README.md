@@ -117,7 +117,6 @@ Gray Factor is the basis of comparison. Add the absolute values ​​of R-G, R-
 
 ## 2-3. Test Accuracy
 
-The test resulted in 19 images out of a total of 20 images. An accuracy of 95% indicates that this classifier works correctly.
-<br>
-<br>
+The test resulted in 19 images classification is correct out of a total of 20 images. An accuracy of 95% indicates that this classifier works correctly. 
+<br><br>
 
