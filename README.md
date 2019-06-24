@@ -1,5 +1,4 @@
 # Low-Saturation-Image-Classifier
-<br>
 Use the K Means algorithm, one of the machine learning techniques, to classify whether the image has low saturation or not.
 Set the value of k to 3 to extract the three colors representing the whole image. Then, compare the RGB values of the three colors. If the RGB values are similar, they are classified as a grayscale image.
 <br><br><br>
