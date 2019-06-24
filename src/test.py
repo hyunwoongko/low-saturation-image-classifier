@@ -3,9 +3,9 @@
 # Homepage : github.com/gusdnd852
 import os
 
-from src.gray_classifier import GrayscaleClassifier
+from src.low_saturation_classifier import LowSaturationClassifier
 
-classifier = GrayscaleClassifier()
+classifier = LowSaturationClassifier()
 good_root = 'good_example/'
 wrong_root = 'wrong_example/'
 
