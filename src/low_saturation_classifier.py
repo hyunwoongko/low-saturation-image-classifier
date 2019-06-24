@@ -5,7 +5,7 @@
 from src.color_extractor import ColorExtractor
 
 
-class GrayscaleClassifier:
+class LowSaturationClassifier:
     extractor = ColorExtractor()
     arr = []
 
