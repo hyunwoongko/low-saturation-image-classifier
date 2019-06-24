@@ -67,52 +67,52 @@ Gray Factor is the basis of comparison. Add the absolute values ​​of R-G, R-
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990709-32466d00-967f-11e9-8f1e-6f51c857100c.jpg></img>
 <br> grayfactor is 74.21911310513414
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990710-32df0380-967f-11e9-8030-c412d201aeff.jpg></img>
 <br> grayfactor is 16.921373829598963
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990711-32df0380-967f-11e9-89c6-25e0d4e154dd.jpg></img>
 <br> grayfactor is 74.8569993561774
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990712-32df0380-967f-11e9-8aaf-b5b707c56edb.jpg></img>
 <br> grayfactor is 21.336244560550085
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990713-32df0380-967f-11e9-913f-2530dfc8768e.jpg></img>
 <br> grayfactor is 39.46925756428328
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990715-33779a00-967f-11e9-939c-5a68fba98691.jpg></img>
 <br> grayfactor is 83.9590711276494
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990716-33779a00-967f-11e9-81c0-194b424e3be0.jpg></img>
 <br> grayfactor is 50.64524879463909
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990717-33779a00-967f-11e9-85b5-36499b40d85d.jpg></img>
 <br> grayfactor is 29.222783415229628
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990718-33779a00-967f-11e9-8783-ab795236e50b.jpg></img>
 <br> grayfactor is 44.29888605893774
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 <img width=256 height=256 src=https://user-images.githubusercontent.com/38183241/59990719-34103080-967f-11e9-8cdd-476a6bec6a06.jpg></img>
 <br> grayfactor is 30.120887800532955
-<br> this image is color image
+<br> this image is grayscale image
 <br><br>
 
 ## 2-3. Test Accuracy
